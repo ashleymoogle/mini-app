@@ -1,0 +1,22 @@
+{
+  "one": {
+    "location":"/one",
+    "title":"It is impossible to walk rapidly and be unhappy."
+  },
+  "two": {
+    "location":"/two",
+    "title":"We don't get offered crises, they arrive."
+  },
+  "three": {
+    "location":"/three",
+    "title":"I have seen the future and it doesn't work."
+  },
+  "four": {
+    "location":"/four",
+    "title":"I dwell in possibility..."
+  },
+  "five": {
+    "location":"/five",
+    "title":"Knowledge is power."
+  }
+}
